@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-1_Two_Sum",
+      "appliesTo": "1_Two_Sum.cpp",
+      "type": "launch"
+    }
+  ]
+}
