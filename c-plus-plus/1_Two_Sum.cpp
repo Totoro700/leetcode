@@ -4,7 +4,7 @@ public:
         for(int a=0;a<sizeof(nums);a++) {
 			for (int b=1;b<sizeof(nums);b++) {
 				if (nums[a] + nums[b] == target) {
-					return [a,b]
+					return [a,b];
 				}
 			}
 		}
